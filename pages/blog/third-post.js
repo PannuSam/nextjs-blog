@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Script from "next/script";
 import Footer from "../../components/Footer";
 import Layout from "../../components/Layout";
 import utilStyles from "../../styles/utils.module.css";
@@ -31,14 +30,14 @@ export default function FirstPost() {
         </div>
         <div>
           <p>
-            Here's the top place to stay in Chile.
+            Here is the top place to stay in Chile.
   
           </p>
           <div className={utilStyles.headingMd}>
           <h3>1. Sheraton Santiago Hotel</h3>
         </div>
         <p>
-         It's best place to stay in Chile because of its stunning views.
+         It is the best place to stay in Chile because of its stunning views.
         </p>
         <p>Average weather is 20° / 38° C</p>
         <div>

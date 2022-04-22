@@ -3,7 +3,7 @@ import styles from "./layout.module.css";
 export default function Nav() {
   return (
     <nav className={styles.navbar}>
-      <div className={styles.logo}>Sam's World</div>
+      <div className={styles.logo}>Sam&apos;s World</div>
       <div>
         <ul className={styles.navmenu}>
           <li className={styles.menuitem}>

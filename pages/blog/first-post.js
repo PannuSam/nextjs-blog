@@ -28,8 +28,7 @@ export default function FirstPost() {
         </div>
         <div>
           <p>
-            Here's the top three list of best places to visit in Canada.
-  
+            Here is the top three list of best places to visit in Canada.
           </p>
           <div className={utilStyles.headingMd}>
           <h3>1. Vancouver</h3>

@@ -23,11 +23,11 @@ export default function TravelTips() {
           <li>Credit Cards Or Debits Cards</li>
           <li>Make Sure To Get Travel Insurance</li>
           <li>Always Hire Local Guides</li>
-          <li>Don't Stay In Your Comfort Zone</li>
+          <li>Do not Stay In Your Comfort Zone</li>
           <li>Respect Local Culture and People</li>
           <li>Learn Basic Words or Phrases of Local Language</li>
           <li>Be Smart</li>
-          <li>Lastly, Don't Forget To Take Lots Of Pictures</li>
+          <li>Lastly, Do not Forget To Take Lots Of Pictures</li>
         </ol>
         </p>
         </section>

@@ -29,14 +29,14 @@ export default function FirstPost() {
         </div>
         <div>
           <p>
-            Here's the top three list of things to See in India.
+            Here is the top three list of things to See in India.
   
           </p>
           <div className={utilStyles.headingMd}>
           <h3>1. Taj Mahal</h3>
         </div>
         <p>
-         Taj Mahal located in Agra is a must see. I was mesmerised by it's beauty.
+         Taj Mahal located in Agra is a must see. I was mesmerised by its beauty.
         </p>
         <p>Average weather is 21° / 41° C</p>
         <div>
@@ -71,7 +71,7 @@ export default function FirstPost() {
           <h3>3. Kolkata</h3>
         </div>
         <p>
-         Kolkata is very beautiful place and it's famous for their food and culture. Howrah Bridge is most famous tourist place to see.
+         Kolkata is very beautiful place and its famous for their food and culture. Howrah Bridge is most famous tourist place to see.
         </p>
         <p>Average weather is 22° / 42° C</p>
         <div>
