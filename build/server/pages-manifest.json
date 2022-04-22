@@ -1,14 +1,14 @@
 {
-  "/_app": "pages/_app.js",
-  "/about": "pages/about.html",
-  "/blog": "pages/blog.html",
-  "/blog/third-post": "pages/blog/third-post.html",
-  "/blog/travel-tips": "pages/blog/travel-tips.html",
-  "/": "pages/index.html",
-  "/_error": "pages/_error.js",
   "/api/hello": "pages/api/hello.js",
   "/blog/second-post": "pages/blog/second-post.html",
+  "/blog/travel-tips": "pages/blog/travel-tips.html",
+  "/blog/third-post": "pages/blog/third-post.html",
+  "/blog": "pages/blog.html",
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
   "/blog/first-post": "pages/blog/first-post.html",
+  "/": "pages/index.html",
+  "/about": "pages/about.html",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
 }

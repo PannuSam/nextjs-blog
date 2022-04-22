@@ -14,7 +14,9 @@ export default function FirstPost() {
         </Head>
         <div>
           <Image
-            src="/../public/images/Canada.jpg"
+          priority
+          src="/images/Canada.jpg"
+           
             alt=""
             className={styles.canada}
             width="800"
@@ -40,7 +42,8 @@ export default function FirstPost() {
         <p>Average weather is 38° / 64° F</p>
         <div>
           <Image
-            src="/../public/images/V.jpg"
+          priority
+          src="/images/V.jpg"
             alt=""
             className={styles.canada}
             width="800"
@@ -58,7 +61,8 @@ export default function FirstPost() {
         <p>Average weather is 28° / 70° F</p>
         <div>
           <Image
-            src="/../public/images/T.jpg"
+           priority
+           src="/images/T.jpg"
             alt=""
             className={styles.canada}
             width="800"
@@ -76,7 +80,8 @@ export default function FirstPost() {
         <p>Average weather is 19° / 62° F</p>
         <div>
           <Image
-            src="/../public/images/C.jpg"
+           priority
+           src="/images/C.jpg"
             alt=""
             className={styles.canada}
             width="800"
