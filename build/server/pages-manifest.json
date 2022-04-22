@@ -1,0 +1,14 @@
+{
+  "/blog/first-post": "pages/blog/first-post.html",
+  "/blog/second-post": "pages/blog/second-post.html",
+  "/blog/third-post": "pages/blog/third-post.html",
+  "/blog/travel-tips": "pages/blog/travel-tips.html",
+  "/": "pages/index.html",
+  "/blog": "pages/blog.html",
+  "/api/hello": "pages/api/hello.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/about": "pages/about.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
